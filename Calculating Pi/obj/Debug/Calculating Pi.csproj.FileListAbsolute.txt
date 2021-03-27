@@ -1,0 +1,10 @@
+C:\Users\Олег\Desktop\Calculating Pi\Calculating Pi\bin\Debug\Calculating Pi.exe.config
+C:\Users\Олег\Desktop\Calculating Pi\Calculating Pi\bin\Debug\Calculating Pi.exe
+C:\Users\Олег\Desktop\Calculating Pi\Calculating Pi\bin\Debug\Calculating Pi.pdb
+C:\Users\Олег\Desktop\Calculating Pi\Calculating Pi\obj\Debug\Calculating Pi.csprojAssemblyReference.cache
+C:\Users\Олег\Desktop\Calculating Pi\Calculating Pi\obj\Debug\Calculating_Pi.Form1.resources
+C:\Users\Олег\Desktop\Calculating Pi\Calculating Pi\obj\Debug\Calculating_Pi.Properties.Resources.resources
+C:\Users\Олег\Desktop\Calculating Pi\Calculating Pi\obj\Debug\Calculating Pi.csproj.GenerateResource.cache
+C:\Users\Олег\Desktop\Calculating Pi\Calculating Pi\obj\Debug\Calculating Pi.csproj.CoreCompileInputs.cache
+C:\Users\Олег\Desktop\Calculating Pi\Calculating Pi\obj\Debug\Calculating Pi.exe
+C:\Users\Олег\Desktop\Calculating Pi\Calculating Pi\obj\Debug\Calculating Pi.pdb
